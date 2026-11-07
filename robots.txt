@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /contao/
+Disallow: /_contao/
+Disallow: /de/bestaetigung-*
+Disallow: /de/suchergebnis/
+
+Sitemap: https://www.car-med-service.de/sitemap.xml
