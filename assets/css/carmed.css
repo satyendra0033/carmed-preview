@@ -1190,4 +1190,113 @@ ul {
   .contact-form-card {
     padding: 24px 20px;
   }
+  body {
+    padding-bottom: 68px;
+  }
+  .mobile-sticky-cta {
+    display: grid !important;
+  }
 }
+
+/* ==========================================================================
+   Company Introduction & Brand Positioning Section
+   ========================================================================== */
+.intro-highlights {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  margin: 24px 0 28px;
+}
+
+.intro-highlight-box {
+  background: var(--cm-surface);
+  border: 1px solid var(--cm-slate-200);
+  border-left: 4px solid var(--cm-primary);
+  border-radius: var(--radius-sm);
+  padding: 16px 18px;
+}
+
+.intro-highlight-box strong {
+  display: block;
+  font-size: 0.98rem;
+  color: var(--cm-navy-900);
+  margin-bottom: 4px;
+}
+
+.intro-highlight-box span {
+  font-size: 0.86rem;
+  color: var(--cm-slate-600);
+}
+
+.leader-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  background: var(--cm-slate-100);
+  border: 1px solid var(--cm-slate-200);
+  border-radius: var(--radius-md);
+  padding: 12px 18px;
+  margin-bottom: 24px;
+}
+
+.leader-avatar {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--cm-navy-900);
+  color: var(--cm-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 0.95rem;
+  flex-shrink: 0;
+}
+
+/* ==========================================================================
+   Map & Local Directions Card
+   ========================================================================== */
+.location-map-box {
+  margin-top: 22px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: var(--radius-md);
+  padding: 18px;
+}
+
+.location-map-box h4 {
+  color: var(--cm-white);
+  font-size: 0.96rem;
+  margin-bottom: 6px;
+}
+
+.location-map-box p {
+  color: #cbd5e1;
+  font-size: 0.85rem;
+  margin-bottom: 12px;
+}
+
+/* ==========================================================================
+   Sticky Mobile Action Bar (Click-to-Call & Quick Inquiry)
+   ========================================================================== */
+.mobile-sticky-cta {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 9990;
+  background: var(--cm-navy-950);
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 10px 14px;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  box-shadow: 0 -6px 24px rgba(9, 13, 22, 0.35);
+}
+
+@media (max-width: 640px) {
+  .intro-highlights {
+    grid-template-columns: 1fr;
+  }
+}
+

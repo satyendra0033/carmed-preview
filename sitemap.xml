@@ -41,7 +41,15 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://www.car-med-service.de/de/flottenmanagement-koeln/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://www.car-med-service.de/de/das-werkstatt-abc/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.car-med-service.de/de/das-werkstatt-abc/autowerkstatt-koeln-chorweiler/</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>

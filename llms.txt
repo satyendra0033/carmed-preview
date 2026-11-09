@@ -1,0 +1,29 @@
+# CAR MED SERVICE GmbH – Kfz-Meisterwerkstatt Köln
+
+> Meistergeführte Full-Service-Kfz-Werkstatt für Karosserieinstandsetzung, Unfallinstandsetzung, eigene Lackierarbeiten, Smart Repair, Fahrzeugwartung nach Herstellervorgaben und spezialisiertes B2B-Fuhrparkmanagement (inkl. Amazon PAVE/PACE) in Köln.
+
+## Unternehmensdaten (Verifizierte Entität)
+- **Offizieller Firmenname:** CAR MED SERVICE GmbH (Car Med Service GmbH)
+- **Adresse:** Donatusstraße 101, 50767 Köln (Gewerbegebiet Köln-Pesch / Stadtbezirk Chorweiler, nahe Autobahnkreuz Köln-Nord A1/A57)
+- **Telefon:** +49 157 32225262
+- **E-Mail:** info@car-med-service.com
+- **Geschäftsführung / Leitung Vertrieb:** Done Stoyanov
+- **Handelsregister:** Amtsgericht Köln, HRB 127070
+- **Kammerzugehörigkeit:** Handwerkskammer zu Köln (Heumarkt 12, 50667 Köln)
+- **Ausstattung vor Ort:** Über 400 m² Werkstatt- und Servicefläche, eigene Lackierkapazitäten im Haus, 15 eigene Kunden- und Transporterparkplätze
+- **Verifizierte B2B-Flottenpartner:** LM Delivery GmbH, LDM Delivery Matters, Fleet Up, MTK Logistik GmbH
+
+## Kernleistungen & URL-Struktur
+- [Startseite](https://www.car-med-service.de/de/)
+- [Werkstatt & Service Übersicht](https://www.car-med-service.de/de/werkstatt-service/)
+- [Karosserieinstandsetzung Köln](https://www.car-med-service.de/de/karosserieinstandsetzung-koeln/)
+- [Unfallinstandsetzung Köln](https://www.car-med-service.de/de/unfallinstandsetzung-koeln/)
+- [Lackierarbeiten & Autolackierung Köln](https://www.car-med-service.de/de/lackierarbeiten-koeln/)
+- [Smart Repair Köln](https://www.car-med-service.de/de/smart-repair-koeln/)
+- [Fahrzeugwartung & Inspektion Köln](https://www.car-med-service.de/de/fahrzeugwartung-koeln/)
+- [Fuhrparkservice Köln (Amazon PAVE/PACE)](https://www.car-med-service.de/de/fuhrparkservice-koeln/)
+- [Flottenmanagement & Schadensteuerung Köln](https://www.car-med-service.de/de/flottenmanagement-koeln/)
+- [Service für Privatkunden](https://www.car-med-service.de/de/privatkunden/)
+- [Service für Flottenkunden](https://www.car-med-service.de/de/flottenkunden/)
+- [Standort Köln-Chorweiler & Pesch](https://www.car-med-service.de/de/das-werkstatt-abc/autowerkstatt-koeln-chorweiler/)
+- [Kontakt & Online-Terminanfrage](https://www.car-med-service.de/de/kontakt/)

@@ -1,4 +1,6 @@
 User-agent: *
+Allow: /de/
+Allow: /assets/
 Disallow: /contao/
 Disallow: /_contao/
 Disallow: /de/bestaetigung-*
